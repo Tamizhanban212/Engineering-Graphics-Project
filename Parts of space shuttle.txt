@@ -1,0 +1,22 @@
+
+1. composite nose cone
+2. liquid oxygen tank
+3. liquid hydrogen tank
+4. intertank
+
+5. drogue chute
+6. thermal curtain
+7. nozzle and thrust vector control system
+8. separation motors
+
+9. nose of the orbiter
+10. crew compartment
+11. wing of the orbiter
+12. vertical tail
+13. main engines
+14. body flaps
+15. maneuvering engines
+16. body of the orbiter - (payload baydoors and mid fuselage)
+
+17. parachutes
+18. wheels of the orbiter
